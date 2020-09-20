@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-flicker/static/css/main.061a251a.chunk.css",
+    "main.js": "/react-flicker/static/js/main.dfd683c3.chunk.js",
+    "main.js.map": "/react-flicker/static/js/main.dfd683c3.chunk.js.map",
+    "runtime-main.js": "/react-flicker/static/js/runtime-main.e5ce73ca.js",
+    "runtime-main.js.map": "/react-flicker/static/js/runtime-main.e5ce73ca.js.map",
+    "static/js/2.60ed789b.chunk.js": "/react-flicker/static/js/2.60ed789b.chunk.js",
+    "static/js/2.60ed789b.chunk.js.map": "/react-flicker/static/js/2.60ed789b.chunk.js.map",
+    "index.html": "/react-flicker/index.html",
+    "precache-manifest.fadddbcd90cf76523bd2404c0a6d1945.js": "/react-flicker/precache-manifest.fadddbcd90cf76523bd2404c0a6d1945.js",
+    "service-worker.js": "/react-flicker/service-worker.js",
+    "static/css/main.061a251a.chunk.css.map": "/react-flicker/static/css/main.061a251a.chunk.css.map",
+    "static/js/2.60ed789b.chunk.js.LICENSE.txt": "/react-flicker/static/js/2.60ed789b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5ce73ca.js",
+    "static/js/2.60ed789b.chunk.js",
+    "static/css/main.061a251a.chunk.css",
+    "static/js/main.dfd683c3.chunk.js"
+  ]
+}
